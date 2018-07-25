@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linhoughtransform.h(148): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linrotate.h(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linrotate.h(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linrotate.h(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linrotate.h(79): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linrotate.h(86): warning C4101: “p”: 未引用的局部变量
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linjudge.h(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\linjudge.h(10): warning C4101: “j”: 未引用的局部变量
+  LinCoin_Object_Oriented.vcxproj -> D:\数字图像处理\LinCoin_Object_Oriented\Debug\LinCoin_Object_Oriented.exe
+  LinCoin_Object_Oriented.vcxproj -> D:\数字图像处理\LinCoin_Object_Oriented\Debug\LinCoin_Object_Oriented.pdb (Full PDB)

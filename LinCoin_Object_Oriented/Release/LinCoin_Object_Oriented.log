@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinHoughTransform.h(148): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinRotate.h(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinRotate.h(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinRotate.h(54): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinRotate.h(79): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinRotate.h(86): warning C4101: “p”: 未引用的局部变量
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinJudge.h(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\数字图像处理\lincoin_object_oriented\lincoin_object_oriented\LinJudge.h(11): warning C4101: “j”: 未引用的局部变量
+  正在生成代码
+  2 of 53 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LinCoin_Object_Oriented.vcxproj -> D:\数字图像处理\LinCoin_Object_Oriented\Release\LinCoin_Object_Oriented.exe
+  LinCoin_Object_Oriented.vcxproj -> D:\数字图像处理\LinCoin_Object_Oriented\Release\LinCoin_Object_Oriented.pdb (Full PDB)

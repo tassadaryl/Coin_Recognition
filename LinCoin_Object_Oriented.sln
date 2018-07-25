@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinCoin_Object_Oriented", "LinCoin_Object_Oriented\LinCoin_Object_Oriented.vcxproj", "{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F4AD8C0-A082-4A20-BB0C-E1B16A139FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Debug|x64.ActiveCfg = Debug|x64
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Debug|x64.Build.0 = Debug|x64
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Debug|x86.Build.0 = Debug|Win32
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Release|x64.ActiveCfg = Release|x64
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Release|x64.Build.0 = Release|x64
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Release|x86.ActiveCfg = Release|Win32
+		{9F3FAEBC-CB4E-4182-B3F1-26F85FF4D0EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
